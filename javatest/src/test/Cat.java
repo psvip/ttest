@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 public class Cat {
     private  int aaa;
-
+    private  String bbb;
     void xixi(){
 
     }
