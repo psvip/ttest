@@ -3,6 +3,8 @@ package test;
 import java.math.BigDecimal;
 
 public class Cat {
+    private  int aaa;
+    private  String aqw;
     void xixi(){
 
     }
